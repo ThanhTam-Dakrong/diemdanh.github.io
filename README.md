@@ -1,4 +1,4 @@
-# toladev-checkin
+# thanhtam-checkin
 Checkin activities by QR code.
 Framework: ExpressJS
 Backend:   NodeJS
